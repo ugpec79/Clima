@@ -117,8 +117,7 @@ class _InputPageState extends State<InputPage> {
                             "Get Weather",
                             style: TextStyle(color: Colors.white, fontSize: 30),
                           )))
-                ]
-             ,
+                ],
         )),
       ),
     );
